@@ -1,0 +1,7 @@
+{
+  "name": "PersonaAi",
+  "description": "Your companion for emotional intelligence. PersonaAi offers deep self-assessments, mood tracking, and personalized growth plans driven by advanced AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
